@@ -9,7 +9,7 @@ body {
 a {
   color: inherit;
   text-decoration: none; 
-  
+  /* I'll be using Tailwind CSS for the styling, Expect Less code Here*/
 }
 
 * {
